@@ -1,0 +1,2 @@
+# Numerical-Simulation-of-Water-and-Mud-Inrush-Evolution-in-Baiyunshan-Tunnel
+This study uses COMSOL with phase-field and particle tracking to simulate three-phase water–air–mud inrush, capturing velocity and pressure evolution and flow interactions.  Mud flow is modeled using the HBP non-Newtonian model, while Newtonian and non-Newtonian behaviors are represented by adjusting density, viscosity, and consistency parameters.
